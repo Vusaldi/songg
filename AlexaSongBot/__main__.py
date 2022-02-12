@@ -35,7 +35,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🌐𝚂𝚞𝚙𝚙𝚘𝚛𝚝🌐", url="https://t.me/NEXUS_MMC"
+                        text="Owner🕵️‍♂️", url="https://t.me/Muradddddddddddddddddddd"
                     )
                 ]
             ]
